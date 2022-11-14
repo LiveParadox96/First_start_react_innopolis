@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/first_start_react_innopolis/static/css/main.073c9b0a.css",
+    "main.js": "/first_start_react_innopolis/static/js/main.e278e942.js",
+    "static/js/787.31e27502.chunk.js": "/first_start_react_innopolis/static/js/787.31e27502.chunk.js",
+    "static/media/logo.svg": "/first_start_react_innopolis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/first_start_react_innopolis/index.html",
+    "main.073c9b0a.css.map": "/first_start_react_innopolis/static/css/main.073c9b0a.css.map",
+    "main.e278e942.js.map": "/first_start_react_innopolis/static/js/main.e278e942.js.map",
+    "787.31e27502.chunk.js.map": "/first_start_react_innopolis/static/js/787.31e27502.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e278e942.js"
+  ]
+}
